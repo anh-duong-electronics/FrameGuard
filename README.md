@@ -237,7 +237,7 @@ Safety tools get better when more eyes look at them. Contributions are welcome, 
 - Hardware variants, enclosure improvements, 60 Hz validation
 - Code review of the measurement and alarm logic
 
-Please open an issue before large changes. When reporting a safety-related bug, describe the conditions clearly so others can reproduce and verify it.
+Please [open an issue](https://github.com/anh-duong-electronics/FrameGuard/issues) before large changes. When reporting a safety-related bug, describe the conditions clearly so others can reproduce and verify it.
 
 ## Authors
 

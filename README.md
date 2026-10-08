@@ -2,7 +2,7 @@
 
 A small, low-cost device that watches for dangerous AC voltage leaking onto the metal frames of industrial machines — and warns people before they touch it.
 
-An open project by **Anh Duong Electronics Viet Nam**.
+An open project by **Anh Duong Electronics Viet Nam** · 🌐 **Website: [anhduongelectronics.com](https://anhduongelectronics.com)**
 
 Firmware for the STM32C031K6T6 (ARM Cortex-M0+), 1–4 monitoring channels, LCD + LED indication, RS-485 Modbus RTU output.
 
@@ -241,7 +241,7 @@ Please [open an issue](https://github.com/anh-duong-electronics/FrameGuard/issue
 
 ## Authors
 
-FrameGuard is developed and maintained by **Anh Duong Electronics Viet Nam**.
+FrameGuard is developed and maintained by **Anh Duong Electronics Viet Nam** ([anhduongelectronics.com](https://anhduongelectronics.com)).
 
 - **Lac Van Vien** — developer
 - **My Nguyen** — developer

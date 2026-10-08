@@ -1,0 +1,21 @@
+# Build output
+build/
+
+# IDE / editor
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# STM32CubeMX temp
+MXTmpFiles/
+
+# Python / misc
+__pycache__/
+*.pyc
+*.log
+
+# Local landing page (not part of the repository)
+index.html
